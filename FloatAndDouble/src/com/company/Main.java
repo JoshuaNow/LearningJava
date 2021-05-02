@@ -28,7 +28,7 @@ public class Main {
     // doubles are processed faster one modern computers this is a big reason why we need to use double and not float
     // double is also the default
 
-        
+
 
 
 
