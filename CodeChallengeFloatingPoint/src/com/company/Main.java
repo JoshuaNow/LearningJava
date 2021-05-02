@@ -11,8 +11,8 @@ public class Main {
         System.out.println("Converted kilograms " + convertedKilograms);
 
     double pi = 3.1415927d;
-    double anotherpi = 3_000_000.4_567_890; //this works too but I don't like to use underscores.
-        //When we need use big Decimal when we need more percise numbers. 
+    double anotherPi = 3_000_000.4_567_890; //this works too but I don't like to use underscores.
+        //When we need use big Decimal when we need more precise numbers.
 
     }
 }
