@@ -3,7 +3,12 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// Your challenge is to create a byte variable and set it to any valid  byte number, it doesn't matter.
+        // crate a short variable adn set it to any valid short number.
+        // create an int variable and set it to any valid short number.
+
+        // create and int varaibale and set it to any valid int number . Lastly , create a variable of type long
+        // and make it equal to 50000 plus 10 times the sum of the byte plus the short plus the integer values.
 
         byte myByte = 50;
         short myShort = 1000;
